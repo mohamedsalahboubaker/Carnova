@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768602600023",
+    "firebase_url": "https://carnova202-default-rtdb.firebaseio.com",
+    "project_id": "carnova202",
+    "storage_bucket": "carnova202.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768602600023:android:4559afe3c1a8b31aafa912",
+        "android_client_info": {
+          "package_name": "com.salah.carnova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768602600023-811pnddm5p8upn5qbugra1pnt1f92fcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6R5IdPntNkExWBx0iKp4mOI43WQu1c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768602600023-811pnddm5p8upn5qbugra1pnt1f92fcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
